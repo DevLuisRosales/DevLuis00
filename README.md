@@ -19,39 +19,25 @@
 ##  Stack Técnico
 
 **Lenguajes**  
-`Python` `TypeScript` `Go` `Java` `JavaScript`
+`Python` `TypeScript` `Java` `JavaScript`
 
 **Backend & APIs**  
-`Node.js` `Express` `FastAPI` `Django` `REST` `GraphQL` `gRPC` `WebSockets`
+`Node.js` `Express` `FastAPI` `REST` `WebSockets`
 
 **Frontend**  
 `React` `Next.js` `Vue.js` `TailwindCSS` `Redux` `React Query`
 
 **Bases de Datos**  
-`PostgreSQL` `MongoDB` `Redis` `Elasticsearch` `MySQL`
+`PostgreSQL` `MySQL`
 
 **Infraestructura & DevOps**  
-`AWS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `CI/CD` `Nginx`
+`AWS` `Docker` `GitHub Actions`
 
 **Testing & Calidad**  
 `Jest` `Pytest` `Cypress` `Testing Library` `Unit/Integration/E2E`
 
 **Herramientas**  
 `Git` `Linux` `Datadog` `Sentry` `Grafana` `Postman`
-
----
-
-##  GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
