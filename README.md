@@ -2,7 +2,6 @@
 
 > Construyo sistemas escalables y equipos de alto rendimiento. Especializado en arquitecturas backend robustas y optimización de performance que impactan directamente en el negocio.
 
- Actualmente: Abierto a oportunidades como Senior/Lead Engineer en equipos que valoren la excelencia técnica y el impacto medible.
 
 ---
 
